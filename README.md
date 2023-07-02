@@ -13,9 +13,9 @@
 | 签到        |  ✅   |
 | 签到推送      |  ✅   |
 | 多账户       |  ✅   |
-| Action 签到 |  ✅   |  
 
-## 支持的推送渠道
+## 支持的推送渠道  
+
 | 渠道名        | 渠道描述          | Action |
 |------------|---------------|:------:|
 | ServerChan | Server 酱推送    | ✅  |
@@ -27,7 +27,8 @@
 | go-cqhttp  | go-cqhttp 机器人 | ✅  |
 
 
-# 食用指南
+# 食用指南  
+
 [Wiki](https://github.com/Cool-doc/AliDrive-auto-check-in/wiki)
 
 </div>
