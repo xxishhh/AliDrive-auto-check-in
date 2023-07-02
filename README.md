@@ -27,7 +27,7 @@
 | go-cqhttp  | go-cqhttp 机器人 | ✅  |
 
 
-# 食用指南  
+## 食用指南  
 
 [Wiki](https://github.com/Cool-doc/AliDrive-auto-check-in/wiki)
 
