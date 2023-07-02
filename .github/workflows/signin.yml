@@ -20,7 +20,6 @@ jobs:
           DO_NOT_REWARD: 'false'
 
           # 这些 Secrets 将加密存储在 GitHub, 无法被直接读取, 但可以在 Action 中使用
-
           # Server酱推送渠道的 SendKey
           SERVERCHAN_SEND_KEY: ${{ secrets.SERVERCHAN_SEND_KEY }}
 
