@@ -3,8 +3,8 @@
 # AliDrive-auto-check-in  
 
 基于Github Actions的阿里云盘自动签到  
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/fanmingming/live">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/fanmingming/live">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Cool-doc/AliDrive-auto-check-in">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Cool-doc/AliDrive-auto-check-in">
 **0 成本 | 自动更新 | 支持推送 | 无需维护**  
 感谢项目: [ImYrS/aliyun-auto-signin](https://github.com/ImYrS/aliyun-auto-signin)  
 
