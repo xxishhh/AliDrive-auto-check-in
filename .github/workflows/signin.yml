@@ -17,7 +17,7 @@ jobs:
           PUSH_TYPES: 'pushplus'
 
           # true为开启，开启此功能后, 每次签到时将不会领取奖励, 并在每个月最后一天签到时尝试领取本月所有奖励, 避免浪费.
-          DO_NOT_REWARD: 'false'
+          DO_NOT_REWARD: 'true'
 
           # 这些 Secrets 将加密存储在 GitHub, 无法被直接读取, 但可以在 Action 中使用
           # Server酱推送渠道的 SendKey
